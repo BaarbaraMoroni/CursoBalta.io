@@ -1,0 +1,14 @@
+C:\Users\Paulo\Calcula\bin\Debug\net9.0\Calcula.exe
+C:\Users\Paulo\Calcula\bin\Debug\net9.0\Calcula.deps.json
+C:\Users\Paulo\Calcula\bin\Debug\net9.0\Calcula.runtimeconfig.json
+C:\Users\Paulo\Calcula\bin\Debug\net9.0\Calcula.dll
+C:\Users\Paulo\Calcula\bin\Debug\net9.0\Calcula.pdb
+C:\Users\Paulo\Calcula\obj\Debug\net9.0\Calcula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Calcula\obj\Debug\net9.0\Calcula.AssemblyInfoInputs.cache
+C:\Users\Paulo\Calcula\obj\Debug\net9.0\Calcula.AssemblyInfo.cs
+C:\Users\Paulo\Calcula\obj\Debug\net9.0\Calcula.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Calcula\obj\Debug\net9.0\Calcula.dll
+C:\Users\Paulo\Calcula\obj\Debug\net9.0\refint\Calcula.dll
+C:\Users\Paulo\Calcula\obj\Debug\net9.0\Calcula.pdb
+C:\Users\Paulo\Calcula\obj\Debug\net9.0\Calcula.genruntimeconfig.cache
+C:\Users\Paulo\Calcula\obj\Debug\net9.0\ref\Calcula.dll
